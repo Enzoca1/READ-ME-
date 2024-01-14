@@ -10,8 +10,11 @@
   <p>Aqui estão algumas coisas sobre mim:</p>
 
   <ul>
-    <li>Tenho 17 anos e sou um dev junior com técnico pelo SENAC, formado em 2023.</li>
+    <li>Tenho 17 anos e sou um dev junior com técnico pelo SENAC.
+    <li>Formado em 2023.</li>
     <li>Já tive experiência com projetos não remunerados dentro do SENAC, sendo o projeto a criação de um site para pessoas com dificuldades em se comunicar.</li>
+    <li>Experiencia profissional: trabalhei como atendente de caixa no restaurante Sugar n' Spice de 07/2019 - 12/2019
+ </li>
   </ul>
 
   <h2>Linguagens nas quais tenho costume a trabalhar:</h2>
