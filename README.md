@@ -1,5 +1,6 @@
 # Eae, tudo bem? sou o Enzo!
 E aqui estão algumas coisas sobre mim
+<br> Tenho 17 anos e sou um dev junior com técnico pelo SENAC, formado em 2023  </br>
 
 <table>
   <a href="https://github.com/Enzoca1">
@@ -13,6 +14,7 @@ E aqui estão algumas coisas sobre mim
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
   <img src="https://img.icons8.com/icon/2572/java" width="120" alt="Java">
+
 </table>
  <br> Minhas redes sociais! </br> 
 <div> 
