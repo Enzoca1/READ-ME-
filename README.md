@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <p>Eae, tudo bem? Sou o Enzo!</p>
+  <p>Eae, tudo bem? Sou o Enzo!</p> 
   <p>Aqui estão algumas coisas sobre mim:</p>
 
   <ul>
