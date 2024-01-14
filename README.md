@@ -1,25 +1,37 @@
-# Eae, tudo bem? sou o Enzo!
-E aqui estão algumas coisas sobre mim
-<br> Tenho 17 anos e sou um dev junior com técnico pelo SENAC, formado em 2023, ja tive experiencia com projetos não remunerados dentro do SENAC, sendo o projeto a criação de um site para pessoas com dificuldades em se comunicar.  </br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perfil de Enzo</title>
+</head>
+<body>
 
-<table>
-  <a href="https://github.com/Enzoca1">
+  <p>Eae, tudo bem? Sou o Enzo!</p>
+  <p>Aqui estão algumas coisas sobre mim:</p>
 
+  <ul>
+    <li>Tenho 17 anos e sou um dev junior com técnico pelo SENAC, formado em 2023.</li>
+    <li>Já tive experiência com projetos não remunerados dentro do SENAC, sendo o projeto a criação de um site para pessoas com dificuldades em se comunicar.</li>
+  </ul>
 
-# <br>Linguas na qual tenho costume a trabalhar!</br>
+  <h2>Linguagens nas quais tenho costume a trabalhar:</h2>
 
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
-  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
-  <img src="https://img.icons8.com/icon/2572/java" width="120" alt="Java">
+  <div>
+    <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
+    <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+    <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+    <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+    <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
+    <img src="https://img.icons8.com/icon/2572/java" width="120" alt="Java">
+  </div>
 
-</table>
- <br> Minhas redes sociais! </br> 
-<div> 
-  <a href="https://www.instagram.com/enzo.trivellato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: enzo.trivellato@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzo-trivellato-b5090727a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <h2>Minhas redes sociais:</h2>
+  <div> 
+    <a href="https://www.instagram.com/enzo.trivellato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:enzo.trivellato@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/enzo-trivellato-b5090727a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 
+</body>
+</html>
