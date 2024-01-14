@@ -1,6 +1,6 @@
 # Eae, tudo bem? sou o Enzo!
 E aqui estão algumas coisas sobre mim
-<br> Tenho 17 anos e sou um dev junior com técnico pelo SENAC, formado em 2023  </br>
+<br> Tenho 17 anos e sou um dev junior com técnico pelo SENAC, formado em 2023, ja tive experiencia com projetos não remunerados dentro do SENAC, sendo o projeto a criação de um site para pessoas com dificuldades em se comunicar.  </br>
 
 <table>
   <a href="https://github.com/Enzoca1">
