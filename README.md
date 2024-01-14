@@ -25,7 +25,7 @@
     <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
     <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
     <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
-    <img src="https://img.icons8.com/icon/2572/java" width="120" alt="Java">
+    <img src="https://icons8.com/icon/2572/java" width="120" alt="Java">
   </div>
 
   <h2>Minhas redes sociais:</h2>
